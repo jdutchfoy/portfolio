@@ -10,28 +10,29 @@ My name is Dutch (yes, it's my real name), and I have just completed a Full-stac
 
 Here are a few selected projects from my portfolio:
 
-## Project 1
+## Trader Joes List
 
-- Frontend Repository: [GitHub](https://github.com/your-username/frontend-repo)
-- Backend Repository: [GitHub](https://github.com/your-username/backend-repo)
-- Description: A description of project 1.
+- Frontend Repository: [GitHub](https://github.com/jdutchfoy/trader-joes-list.git
+)
+- Description: Developed a web application for managing shopping lists with features such as adding, editing, and deleting items.
 
-## Project 2
 
-- Frontend Repository: [GitHub](https://github.com/your-username/frontend-repo)
-- Backend Repository: [GitHub](https://github.com/your-username/backend-repo)
-- Description: A description of project 2.
+## Gallery of Games
+
+- Frontend Repository: [GitHub](https://github.com/gallery-of-games/arcade.git)
+- Backend Repository: [GitHub]()
+- Description:
 
 ## Project 3
 
-- Frontend Repository: [GitHub](https://github.com/your-username/frontend-repo)
-- Backend Repository: [GitHub](https://github.com/your-username/backend-repo)
-- Description: A description of project 3.
+- Frontend Repository: [GitHub]()
+- Backend Repository: [GitHub]()
+- Description:
 
 ## Project 4
 
-- Repository: [GitHub](https://github.com/your-username/project4-repo)
-- Description: A description of project 4.
+- Repository: [GitHub]()
+- Description:
 
 ## Skills
 
@@ -45,4 +46,4 @@ For a detailed view of all my skills, please refer to [my CodersRank profile](ht
 
 ## Contact
 
-Feel free to reach out to me via email at <d3v0bsidi4n@gmail.com>. I look forward to hearing from you about potential opportunities!
+Feel free to reach out to me via email at <d3v0bsidi4n@gmail.com>. I look forward to hearing from you about potential employment opportunities.

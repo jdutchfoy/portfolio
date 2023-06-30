@@ -1,4 +1,6 @@
-# Dutch's Portfolio
+# README.md
+
+## Dutch's Portfolio
 
 Welcome to my portfolio! This repository showcases my projects, skills, and experience as a software developer. As a recent graduate without real-world experience and a US Navy Veteran, I am eager to apply my knowledge and skills in a professional setting. I am seeking a company that offers both an innovative and challenging environment while fostering and cultivating my personal growth and development, ensuring a history of successful project delivery.
 
@@ -20,8 +22,7 @@ Here are a few selected projects from my portfolio:
 ## Gallery of Games
 
 - Frontend Repository: [GitHub](https://github.com/gallery-of-games/arcade.git)
-- Backend Repository: [GitHub]()
-- Description:
+- Description:The Gallery of Games is a collection of classic arcade-style games built using Python and the Pygame library. 
 
 ## Project 3
 

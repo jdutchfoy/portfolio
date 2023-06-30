@@ -1,31 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-  <script src="{{ url_for('static', filename='script.js') }}"></script>
-  <title>About</title>
+    <title>About</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-  <header>
-    <h1>About</h1>
-  </header>
-  
-  <nav>
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/about">About</a></li>
-    </ul>
-  </nav>
-  
-  <section>
-    <h2>About Me</h2>
-    <p>Add your professional profile and bio here.</p>
-  </section>
-  
-  <footer>
-    <p>© 2023 Dutch Foy. All rights reserved.</p>
-  </footer>
+    <h1>About Me</h1>
+    <nav>
+        <ul>
+            <li><a href="{{ url_for('index') }}">Home</a></li>
+            <li><a href="{{ url_for('about') }}">About Me</a></li>
+            <li><a href="{{ url_for('portfolio') }}">My Portfolio</a></li>
+            <li><a href="{{ url_for('projects') }}">Projects</a></li>
+            <li><a href="{{ url_for('contact') }}">Contact Me</a></li>
+        </ul>
+    </nav>
+    <h2>About</h2>
+    <p>This is the about page of my portfolio.</p>
 </body>
 </html>

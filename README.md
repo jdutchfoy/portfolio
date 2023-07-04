@@ -12,25 +12,25 @@ My name is Dutch (yes, it's my real name), and I have just completed a Full-stac
 
 Here are a few selected projects from my portfolio:
 
-## Trader Joes List
+### Trader Joes List
 
-- Frontend Repository: [GitHub](https://github.com/jdutchfoy/trader-joes-list.git
-)
-- Description: Developed a web application for managing shopping lists with features such as adding, editing, and deleting items.
+- Frontend Repository: [GitHub](https://github.com/jdutchfoy/trader-joes-list.git)
+- Description: Application for managing shopping lists with features such as adding, editing, and deleting items.
 
 
-## Gallery of Games
+### Gallery of Games
 
 - Frontend Repository: [GitHub](https://github.com/gallery-of-games/arcade.git)
-- Description:The Gallery of Games is a collection of classic arcade-style games built using Python and the Pygame library. 
+- Description: The Gallery of Games is a collection of classic arcade-style games built using Python and the Pygame library. 
 
-## Project 3
+### Urban Potatoes
 
-- Frontend Repository: [GitHub]()
-- Backend Repository: [GitHub]()
-- Description:
+- Frontend Repository: [GitHub](https://github.com/UrbanPotatoes/UrbanPotatoesFrontend.git)
+- Backend Repository: [GitHub](https://github.com/UrbanPotatoes/UrbanPotatoesBackend.git)
+- Website: [Urban Potatoes](https://urban-potatoes.netlify.app/)
+- Description: Inspired by the popular website Rotten Tomatoes, Urban Potatoes is a movie rating platform that puts the power of scoring films in the hands of movie lovers and fanatics. 
 
-## Project 4
+### Project 4
 
 - Repository: [GitHub]()
 - Description:
@@ -48,3 +48,10 @@ For a detailed view of all my skills, please refer to [my CodersRank profile](ht
 ## Contact
 
 Feel free to reach out to me via email at <d3v0bsidi4n@gmail.com>. I look forward to hearing from you about potential employment opportunities.
+
+## Current Projects
+
+I am currently working on the following projects:
+
+- Building my portfolio page: [![GitHub](https://github.com/jdutchfoy/portfolio)
+- Blackjack game: [![GitHub](https://github.com/jdutchfoy/blackjack)

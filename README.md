@@ -17,7 +17,6 @@ Here are a few selected projects from my portfolio:
 - Frontend Repository: [GitHub](https://github.com/jdutchfoy/trader-joes-list.git)
 - Description: Application for managing shopping lists with features such as adding, editing, and deleting items.
 
-
 ### Gallery of Games
 
 - Frontend Repository: [GitHub](https://github.com/gallery-of-games/arcade.git)
@@ -53,5 +52,5 @@ Feel free to reach out to me via email at <d3v0bsidi4n@gmail.com>. I look forwar
 
 I am currently working on the following projects:
 
-- Building my portfolio page: [![GitHub](https://github.com/jdutchfoy/portfolio)
-- Blackjack game: [![GitHub](https://github.com/jdutchfoy/blackjack)
+- Building my portfolio page: [GitHub](https://github.com/jdutchfoy/portfolio)
+- Blackjack game: [GitHub](https://github.com/jdutchfoy/blackjack)
